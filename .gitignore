@@ -1,0 +1,2 @@
+#忽略 node_modules 資料夾中的所有檔案
+node_modules/
